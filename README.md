@@ -1,4 +1,4 @@
-# 🚛 FleetPulse
+#  FleetPulse
 
 **FleetPulse** is a full-stack fleet and transit management platform designed to help transportation teams manage vehicles, drivers, routes, trips, maintenance, expenses, analytics, and operational activities from a centralized dashboard.
 
